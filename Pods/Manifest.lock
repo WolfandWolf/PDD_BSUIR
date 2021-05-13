@@ -1,0 +1,20 @@
+PODS:
+  - Presentr (1.9)
+  - SkyFloatingLabelTextField (3.8.0)
+
+DEPENDENCIES:
+  - Presentr
+  - SkyFloatingLabelTextField (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - Presentr
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  Presentr: 7078d7eb5d1661ebeaae60c9e42a1e534de1b993
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+
+PODFILE CHECKSUM: ba3452b20e74a537c09e706c23223d8373eb87e7
+
+COCOAPODS: 1.10.0

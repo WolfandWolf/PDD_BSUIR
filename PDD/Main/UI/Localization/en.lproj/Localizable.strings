@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  PDD
+
+  Created by Anton Rasoha on 11.05.21.
+  
+*/
+
+// MARK: language selector
+
+"lang_eng" = "Английский";
+"lang_rus" = "Русский";
+"common_cancel" = "Cancel";

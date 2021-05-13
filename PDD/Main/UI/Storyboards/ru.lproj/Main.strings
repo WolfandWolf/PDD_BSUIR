@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "USER"; ObjectID = "9TQ-HD-EXc"; */
+"9TQ-HD-EXc.text" = "Имя пользователя";
+
+/* Class = "UIButton"; normalTitle = "SIG IN"; ObjectID = "FdS-43-WIe"; */
+"FdS-43-WIe.normalTitle" = "Войти";
+
+/* Class = "UIButton"; normalTitle = "forgot password"; ObjectID = "IDt-Oi-XYa"; */
+"IDt-Oi-XYa.normalTitle" = "Забыли пароль";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "X0l-Zg-u4f"; */
+"X0l-Zg-u4f.text" = "Пароль";
+
+/* Class = "UIButton"; normalTitle = "Not a member"; ObjectID = "imH-hG-C9W"; */
+"imH-hG-C9W.normalTitle" = "Зарегистрироваться";
